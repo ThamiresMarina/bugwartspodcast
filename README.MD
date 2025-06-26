@@ -64,28 +64,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
 
-## 👨‍💻 Expert
 
-<p>
-   
-    <p>&nbsp&nbsp&nbspThamires Santos<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/ThamiresMarina">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.linkedin.com/in/thamires-marinas/">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
----
 
-⌨️ com 💜 por [Thamires Santos](https://github.com/ThamiresMarina)
